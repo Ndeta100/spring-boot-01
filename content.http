@@ -1,5 +1,5 @@
     ### Find all content
-   GET http://localhost:3000/api/content
+   //GET http://localhost:3000/api/content
 
    ### Get content by id
   //GET http://localhost:3000/api/content
@@ -10,7 +10,7 @@ Content-Type:application/json
 
  {
     "id": 2,
-    "title": "my second post",
+    "title": "",
     "desc": "My second bloo",
     "status": "IDEA",
     "contentType": "ARTICLE",
